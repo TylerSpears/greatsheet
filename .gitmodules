@@ -1,0 +1,3 @@
+[submodule "python/matplolib/cheatsheets"]
+	path = python/matplolib/cheatsheets
+	url = git@github.com:matplotlib/cheatsheets.git
