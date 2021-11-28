@@ -1,0 +1,2 @@
+- [Algebra and Calculus Review](<https://github.com/afshinea/stanford-cs-229-machine-learning/blob/d96dd195ea679ce55acc7a18ed1e63cc5f667434/en/refresher-algebra-calculus.pdf>)
+- [Probability and Statistics Review](<https://github.com/afshinea/stanford-cs-229-machine-learning/blob/d96dd195ea679ce55acc7a18ed1e63cc5f667434/en/refresher-probabilities-statistics.pdf>)

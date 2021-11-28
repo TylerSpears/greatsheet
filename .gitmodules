@@ -1,3 +1,9 @@
 [submodule "python/matplolib/cheatsheets"]
 	path = python/matplolib/cheatsheets
 	url = git@github.com:matplotlib/cheatsheets.git
+[submodule "python/pytorch/pytorch-for-numpy-users"]
+	path = python/pytorch/pytorch-for-numpy-users
+	url = git@github.com:wkentaro/pytorch-for-numpy-users.git
+[submodule "machine-learning/stanford-cs-229-machine-learning"]
+	path = machine-learning/stanford-cs-229-machine-learning
+	url = git@github.com:afshinea/stanford-cs-229-machine-learning.git
