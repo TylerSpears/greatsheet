@@ -7,3 +7,6 @@
 [submodule "machine-learning/stanford-cs-229-machine-learning"]
 	path = machine-learning/stanford-cs-229-machine-learning
 	url = git@github.com:afshinea/stanford-cs-229-machine-learning.git
+[submodule "machine-learning/ml-glossary"]
+	path = machine-learning/ml-glossary
+	url = git@github.com:bfortuner/ml-glossary.git
