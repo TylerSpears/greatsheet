@@ -10,3 +10,6 @@
 [submodule "machine-learning/ml-glossary"]
 	path = machine-learning/ml-glossary
 	url = git@github.com:bfortuner/ml-glossary.git
+[submodule "python/python-cheatsheet"]
+	path = python/python-cheatsheet
+	url = git@github.com:gto76/python-cheatsheet.git
